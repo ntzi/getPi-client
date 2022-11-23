@@ -6,6 +6,10 @@
 npm install
 ```
 
+### .env
+
+Create a new local `.env` file following the example file `.env.example`
+
 ### Run
 
 ```
